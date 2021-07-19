@@ -40,6 +40,19 @@ layout: default
             
         </li>
         
+         <li>
+            <a href="/blog/from-one-to-many-self-governed-communities-in-three-steps/">Hello, world!</a>
+            
+            <small>
+                —
+                <time datetime="2021-06-06" itemprop="datePublished">
+                    June 6, 2021
+                </time>
+                
+            </small>
+            
+        </li>
+        
      
         
     </ul>
