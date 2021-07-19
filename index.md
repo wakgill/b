@@ -15,7 +15,7 @@ layout: default
 <ul class="posts">
         
         <li>
-            <a href="/blog/from-one-to-many-self-governed-communities-in-three-steps/">30 First Drafts</a> (subdirectory)
+            <a href="/blog/from-one-to-many-self-governed-communities-in-three-steps/">30 Short Story First Drafts</a> (subdirectory)
             
             <small>
                 —
