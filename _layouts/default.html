@@ -34,6 +34,11 @@
 
         
 <main class="blog" itemscope itemtype="http://schema.org/Blog">
+    
+     {% if page.url != '/' %}
+<a href="/" class="posts-item-brand">nutcroft blog</a>
+   
+    {% endif %}
 
 {{ content }}
 </main>
