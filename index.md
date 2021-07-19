@@ -14,31 +14,6 @@ layout: default
 
 <ul class="posts">
         
-        <li>
-            <a href="/blog/from-one-to-many-self-governed-communities-in-three-steps/">30 Short Story First Drafts</a> (subdirectory)
-            
-            <small>
-                —
-                <time datetime="2021-06-06" itemprop="datePublished">
-                    June 6, 2021
-                </time>
-                
-            </small>
-            
-        </li>
-    
-       <li>
-            <a href="/blog/from-one-to-many-self-governed-communities-in-three-steps/">100 Days to Unload</a> (subdirectory)
-            
-            <small>
-                —
-                <time datetime="2021-06-06" itemprop="datePublished">
-                    June 6, 2021
-                </time>
-                
-            </small>
-            
-        </li>
         
          <li>
             <a href="/blog/from-one-to-many-self-governed-communities-in-three-steps/">Hello, world!</a>
