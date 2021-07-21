@@ -16,7 +16,7 @@ layout: default
         
         
        <li>
-            <a href="/b/powers/">Book Review: The Powers of the Earth</a>
+            <a href="/b/powers">Book Review: The Powers of the Earth</a>
             
             <small>
                 —
