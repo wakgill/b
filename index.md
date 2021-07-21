@@ -15,6 +15,19 @@ layout: default
 <ul class="posts">
         
         
+       <li>
+            <a href="/b/powers/">Book Review: The Powers of the Earth</a>
+            
+            <small>
+                —
+                <time datetime="2021-06-06" itemprop="datePublished">
+                    July 20, 2021
+                </time>
+                
+            </small>
+            
+        </li>
+        
          <li>
             <a href="/blog/from-one-to-many-self-governed-communities-in-three-steps/">Hello, world!</a>
             
